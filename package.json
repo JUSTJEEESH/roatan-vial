@@ -1,0 +1,16 @@
+{
+  "name": "roatan-vial",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Roatán Vial — community road-safety education website (static, bilingual).",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node scripts/build.mjs && node scripts/serve.mjs",
+    "check": "node scripts/check.mjs",
+    "images": "node scripts/render-images.mjs"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" role="img" aria-label="Roatán Vial">
+  <title>Roatán Vial</title>
+  <path d="M8.00 84.00 L17.78 75.22" stroke="currentColor" stroke-width="11.50" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M29.30 65.82 L39.85 58.01" stroke="currentColor" stroke-width="11.50" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M52.24 49.70 L62.79 43.28" stroke="currentColor" stroke-width="11.50" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <circle cx="84.00" cy="32.00" r="11.00" fill="#D7E65A"/>
+</svg>
